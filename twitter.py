@@ -2,10 +2,10 @@ import tweepy
 import time
 
 
-ACCESS_TOKEN = '966167730251550720-3YbzSHlm6feELRtVihLKjjE2Fm5OYZs'
-ACCESS_SECRET = 'YDjxBk0myrogMTve0EELWC4zTH0arl5EIpSSwjLPA2tzm'
-CONSUMER_KEY = 'HFkXJH0y2CkKV6ySTzXpU5pMK'
-CONSUMER_SECRET = 'Gm5yBvV6IZR0Y7GKIMz0snqXqX9ROq1rlIMiQKjSthXAcHr5AL'
+ACCESS_TOKEN = ''
+ACCESS_SECRET = ''
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
 SEARCH=input("Enter the search string ")
 FROM=input("Enter the from date (YYYY-MM-DD format) ")
 TO=input("Enter the to data (YYYY-MM-DD format) ")
